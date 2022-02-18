@@ -1,0 +1,7 @@
+body {font-family: 'Ubuntu', sans-serif;}
+main {width: 80%; margin: auto;}
+h1 {font-weight: 100;
+font-size: 3rem;
+margin-bottom: 0;}
+h1,h2,h3 {font-family: Viaoda libre, cursive;}
+h1 + h2 {margin-top: 10px;}

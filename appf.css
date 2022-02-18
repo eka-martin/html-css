@@ -1,0 +1,5 @@
+button:hover {background-color: blueviolet;
+    font-family: cursive;}
+.src button:hover {font-weight: bold;
+}
+a:active {color:brown;}
